@@ -13,9 +13,13 @@
 2. [🚀 Installation Guide](#installation-guide)  
 3. [💡 How to Use](#how-to-use)  
 4. [⚙️ Settings & Customization](#settings--customization)  
-5. [⭐ Best Practices](#best-practices)  
-6. [🛠️ Technology Stack](#technology-stack)  
-7. [📞 Support & Feedback](#support--feedback)  
+5. [🔑 LLM Provider Configuration](#llm-provider-configuration)  
+   - [1. Groq Configuration](#1-grok-configuration)  
+   - [2. Hugging Face Configuration](#2-hugging-face-configuration)  
+   - [3. Gemini Configuration](#3-gemini-configuration)  
+6. [⭐ Best Practices](#best-practices)  
+7. [🛠️ Technology Stack](#technology-stack)  
+8. [📞 Support & Feedback](#support--feedback)  
 
 ---
 
@@ -68,17 +72,6 @@ Translix makes translation intuitive and fast. Here’s how it works:
 Customize Translix to suit your needs via the **Settings** page, accessible by clicking the **Settings Icon** in the extension toolbar.  
 ![Settings](https://i.postimg.cc/4dPf84cM/step-3.jpg)  
 
-### 🔑 **AI Provider**  
-
-- Add your preferred **LLM Provider** for translations.  
-- Use a **Free API Key** from supported providers.  
-
-**Example**:  
-To use **Grok**, visit [groq.com](http://groq.com):  
-1. Create an account.  
-2. Navigate to **Settings** and generate a free API key.  
-3. Add the key to Translix’s settings.  
-
 ### 🌍 **Language & Shortcut Customization**  
 
 - Choose your **target language** (e.g., BN → Bangla, EN → English, etc.).  
@@ -92,11 +85,51 @@ To use **Grok**, visit [groq.com](http://groq.com):
 
 ---
 
+## 🔑 **LLM Provider Configuration**  
+
+Translix supports multiple **LLM Providers** for accurate translations. Configure your preferred provider by adding a **Free API Key** in the settings. Below are instructions for configuring popular providers:  
+
+### 1. Groq Configuration  
+
+To use **Grok** for translations:  
+1. Visit [groq.com](http://groq.com).  
+2. Create an account or sign in.  
+3. Navigate to **Settings** and generate a free API key.  
+4. Copy the API key and paste it into the **AI Provider** section of Translix’s settings.  
+5. Save and refresh the page to apply the changes.  
+
+> **Note**: Groq offers fast and accurate translations, ideal for multilingual communication.  
+
+### 2. Hugging Face Configuration  
+
+To use **Hugging Face** for translations:  
+1. Go to [huggingface.co](https://huggingface.co).  
+2. Sign up or log in to your account.  
+3. Navigate to **Settings > Access Tokens** and create a new API token.  
+4. Copy the token and add it to the **AI Provider** section in Translix’s settings.  
+5. Select a translation model (e.g., `Helsinki-NLP/opus-mt`) from the settings dropdown.  
+6. Save and refresh the page.  
+
+> **Note**: Hugging Face supports a wide range of open-source translation models.  
+
+### 3. Gemini Configuration  
+
+To use **Google Gemini** for translations:  
+1. Visit [ai.google.dev](https://ai.google.dev).  
+2. Sign in with your Google account.  
+3. Navigate to the **API Keys** section and generate a new API key.  
+4. Copy the API key and paste it into the **AI Provider** section of Translix’s settings.  
+5. Save and refresh the page to enable Gemini-powered translations.  
+
+> **Note**: Ensure your Gemini API key has access to translation-capable models.  
+
+---
+
 ## ⭐ **Best Practices**  
 
 Maximize your Translix experience with these tips:  
 
-1. **Switch from Default Provider**: The default provider, "Polination," may not always deliver optimal results. Use a custom API key (e.g., Groq) for better accuracy.  
+1. **Switch from Default Provider**: The default provider, "Polination," may not always deliver optimal results. Use a custom API key (e.g., Groq, Hugging Face, or Gemini) for better accuracy.  
 2. **Set Default Language**: Choose your primary language in settings for faster translations.  
 3. **Refresh Pages**: Always refresh the page after changing settings to apply updates.  
 4. **Test Shortcuts**: Ensure your custom shortcuts work smoothly across websites.  
@@ -111,7 +144,7 @@ Translix is built with modern, reliable technologies:
 
 - **Frontend**: Chrome Extension with **React** for a smooth and dynamic UI.  
 - **Backend**: **Express.js** for fast and secure API communication.  
-- **Translation APIs**: Powered by leading LLMs for accurate translations.  
+- **Translation APIs**: Powered by leading LLMs (Grok, Hugging Face, Gemini, etc.) for accurate translations.  
 
 ---
 
