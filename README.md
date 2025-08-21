@@ -1,6 +1,6 @@
 ![Translix Logo](https://i.postimg.cc/pLQNvWVL/fulllogopng.png)
 
-# 🌐 **Translix** - Seamless Text Translation Chrome Extension  
+# **Translix** - Seamless Text Translation Chrome Extension  
 
 **Translix** is a powerful Chrome Extension that enables you to instantly translate selected text in any input box into your desired language with a simple **shortcut key** or **long-press** preview. Communicate effortlessly across languages with ease and precision!  
 
