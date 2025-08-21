@@ -11,12 +11,16 @@
 
 1. [🎥 Overview Video](#overview-video)  
 2. [🚀 Installation Guide](#installation-guide)  
-3. [💡 How to Use](#how-to-use)  
-4. [⚙️ Settings & Customization](#settings--customization)  
-5. [🔑 LLM Provider Configuration](#llm-provider-configuration)  
+3. [🔑 LLM Provider Configuration](#llm-provider-configuration)  
    - [1. Groq Configuration](#1-grok-configuration)  
    - [2. Hugging Face Configuration](#2-hugging-face-configuration)  
    - [3. Gemini Configuration](#3-gemini-configuration)  
+4. [💡 How to Use](#how-to-use)  
+   - [1. Replace Text](#1-replace-text)  
+   - [2. Preview Translation](#2-preview-translation)  
+5. [⚙️ Settings & Customization](#settings--customization)  
+   - [1. LLM Model Configuration](#1-llm-model-configuration)  
+   - [2. Language & Shortcut](#2-language--shortcut)  
 6. [⭐ Best Practices](#best-practices)  
 7. [🛠️ Technology Stack](#technology-stack)  
 8. [📞 Support & Feedback](#support--feedback)  
@@ -47,47 +51,9 @@ Follow these simple steps to install Translix and start translating text instant
 
 ---
 
-## 💡 **How to Use**  
-
-Translix makes translation intuitive and fast. Here’s how it works:  
-
-1. **Select Text**: Highlight text in any input box after refreshing the page. Two icons will appear next to the selection.  
-   ![Step 1](https://i.postimg.cc/k5rgGp9j/step-1.jpg)  
-
-2. **Replace Text**: Click an icon to instantly replace the selected text with its translation.  
-   *Example*: Clicking the **BN** icon translates the text to Bangla.  
-   ![Step 2](https://i.postimg.cc/rmMyCRDx/step-2.jpg)  
-
-3. **Preview Translation**: Long-press an icon to view the translated text in a preview box.  
-   ![Step 3](https://i.postimg.cc/4dPf84cM/step-3.jpg)  
-
-4. **Copy & Use**: Copy the previewed translation and paste it anywhere you need.  
-
-> **Why It’s Awesome**: Translate directly in forms, chats, or text editors without leaving the page!  
-
----
-
-## ⚙️ **Settings & Customization**  
-
-Customize Translix to suit your needs via the **Settings** page, accessible by clicking the **Settings Icon** in the extension toolbar.  
-![Settings](https://i.postimg.cc/4dPf84cM/step-3.jpg)  
-
-### 🌍 **Language & Shortcut Customization**  
-
-- Choose your **target language** (e.g., BN → Bangla, EN → English, etc.).  
-- Customize **shortcut keys** for quick translations.  
-
-**Default Shortcuts**:  
-- `Ctrl + M` → Translate to Bangla (BN)  
-- `Ctrl + E` → Translate to English (EN)  
-
-> **Pro Tip**: Set shortcuts that don’t conflict with other browser or system commands.  
-
----
-
 ## 🔑 **LLM Provider Configuration**  
 
-Translix supports multiple **LLM Providers** for accurate translations. Configure your preferred provider by adding a **Free API Key** in the settings. Below are instructions for configuring popular providers:  
+Translix requires a configured **LLM Provider** for accurate translations. Set up a **Free API Key** in the settings to enable translation functionality. Below are instructions for configuring popular providers:  
 
 ### 1. Groq Configuration  
 
@@ -122,6 +88,56 @@ To use **Google Gemini** for translations:
 5. Save and refresh the page to enable Gemini-powered translations.  
 
 > **Note**: Ensure your Gemini API key has access to translation-capable models.  
+
+---
+
+## 💡 **How to Use**  
+
+Translix makes translation intuitive and fast. Here’s how it works:  
+
+1. **Select Text**: Highlight text in any input box after refreshing the page. Two icons will appear next to the selection.  
+   ![Step 1](https://i.postimg.cc/k5rgGp9j/step-1.jpg)  
+
+### 1. Replace Text  
+
+Click an icon to instantly replace the selected text with its translation.  
+*Example*: Clicking the **BN** icon translates the text to Bangla.  
+![Step 2](https://i.postimg.cc/rmMyCRDx/step-2.jpg)  
+
+### 2. Preview Translation  
+
+Long-press an icon to view the translated text in a preview box. Copy the previewed translation and paste it anywhere you need.  
+![Step 3](https://i.postimg.cc/4dPf84cM/step-3.jpg)  
+
+> **Why It’s Awesome**: Translate directly in forms, chats, or text editors without leaving the page!  
+
+---
+
+## ⚙️ **Settings & Customization**  
+
+Customize Translix to suit your needs via the **Settings** page, accessible by clicking the **Settings Icon** in the extension toolbar.  
+![Settings](https://i.postimg.cc/4dPf84cM/step-3.jpg)  
+
+### 1. LLM Model Configuration  
+
+Add your preferred **LLM Provider** for translations by configuring an API key. This enhances translation accuracy and speed.  
+
+- Navigate to the **AI Provider** section in the settings.  
+- Select a provider (e.g., Groq, Hugging Face, or Gemini) and input the API key.  
+- For specific provider setup, refer to the [LLM Provider Configuration](#llm-provider-configuration) section.  
+
+> **Note**: Configuring a custom LLM model ensures better translation quality over the default provider.  
+
+### 2. Language & Shortcut  
+
+- Choose your **target language** (e.g., BN → Bangla, EN → English, etc.).  
+- Customize **shortcut keys** for quick translations.  
+
+**Default Shortcuts**:  
+- `Ctrl + M` → Translate to Bangla (BN)  
+- `Ctrl + E` → Translate to English (EN)  
+
+> **Pro Tip**: Set shortcuts that don’t conflict with other browser or system commands.  
 
 ---
 
