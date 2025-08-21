@@ -1,103 +1,130 @@
-# 🌐 Translix  
+# 🌐 **Translix** - Seamless Text Translation Chrome Extension  
 
-Translix হলো এমন একটি Chrome Extension যা শুধু ইনস্টল করে রাখলেই,  
-আপনি যেকোনো ইনপুট বক্সে সিলেক্ট করা টেক্সটকে যেকোনো ভাষায় রিপ্লেস করতে পারবেন  
-খুব সহজে **Shortcut Key** প্রেস করে।  
+**Translix** is a powerful Chrome Extension that enables you to instantly translate selected text in any input box into your desired language with a simple **shortcut key** or **long-press** preview. Communicate effortlessly across languages with ease and precision!  
 
-👉 আবার **Long-Press** করলে অনুবাদ করা টেক্সট preview box এ দেখতে পারবেন।  
-এভাবে Translix ব্যবহার করে আপনি সহজেই যেকোনো ভাষায় যেকারো সাথে কথা বলতে পারবেন।  
+> **Effortless. Fast. Multilingual.**  
+> Replace text or preview translations in just a few clicks.  
 
 ---
 
-## 📑 Table of Contents
+## 📑 **Table of Contents**  
 
-1. [🎥 Overview Video](#-overview-video)  
-2. [🚀 Installation Guide](#-কিভাবে-এই-এক্সটেনশন-ইনস্টল-করবেন)  
-3. [💡 Usage & Features](#-কিভাবে-ব্যবহার-করবেন)  
-4. [⚙️ Settings & Customization](#️-settings)  
-5. [⭐ Best Practices](#-best-way-to-use)  
-6. [🛠️ Technology](#-প্রযুক্তি)  
-
----
-
-## 🎥 Overview Video  
-
-<div align="center">  
-  <iframe width="800" height="450"  
-    src="https://www.youtube.com/embed/9PSBWwj9DU8?si=CN_OmpFIwSwxEitN"  
-    title="Translix Overview Video"  
-    frameborder="0"  
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  
-    allowfullscreen  
-    style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.2);">  
-  </iframe>  
-</div>  
+1. [🎥 Overview Video](#overview-video)  
+2. [🚀 Installation Guide](#installation-guide)  
+3. [💡 How to Use](#how-to-use)  
+4. [⚙️ Settings & Customization](#settings--customization)  
+5. [⭐ Best Practices](#best-practices)  
+6. [🛠️ Technology Stack](#technology-stack)  
+7. [📞 Support & Feedback](#support--feedback)  
 
 ---
 
-## 🚀 কিভাবে এই এক্সটেনশন ইনস্টল করবেন  
+## 🎥 **Overview Video**  
 
-1. ⬇️ প্রথমে এক্সটেনশনের **ZIP ফাইল** ডাউনলোড করুন।  
-2. 🌐 Chrome-এ যান → `chrome://extensions`  
-3. ⚙️ উপরের ডানদিকে **Developer Mode** চালু করুন।  
-4. 📂 **Load unpacked** এ ক্লিক করে ZIP ফাইল সিলেক্ট করুন।  
-5. ✅ সফলভাবে ইনস্টল হলে Translix এক্সটেনশন লিস্টে দেখতে পাবেন।  
+Get a quick glimpse of Translix in action! Watch the video below to see how it simplifies multilingual communication.  
+
+[![Watch the Video](https://img.youtube.com/vi/9PSBWwj9DU8/maxresdefault.jpg)](https://www.youtube.com/watch?v=9PSBWwj9DU8)  
+
+*Click the image to watch on YouTube*  
 
 ---
 
-## 💡 কিভাবে ব্যবহার করবেন  
+## 🚀 **Installation Guide**  
 
-1. পেজ রিফ্রেশ দিন → যেকোনো টেক্সট সিলেক্ট করলে ২টা আইকন দেখাবে।  
+Follow these simple steps to install Translix and start translating text instantly:  
+
+1. ⬇️ **Download** the extension’s **ZIP file** from the official source.  
+2. 🌐 Open Chrome and navigate to `chrome://extensions`.  
+3. ⚙️ Enable **Developer Mode** (top-right corner).  
+4. 📂 Click **Load unpacked** and select the extracted ZIP folder.  
+5. ✅ Once installed, Translix will appear in your Chrome extensions list.  
+
+> **Pro Tip**: Pin Translix to your Chrome toolbar for quick access!  
+
+---
+
+## 💡 **How to Use**  
+
+Translix makes translation intuitive and fast. Here’s how it works:  
+
+1. **Select Text**: Highlight text in any input box after refreshing the page. Two icons will appear next to the selection.  
    ![Step 1](https://i.postimg.cc/k5rgGp9j/step-1.jpg)  
 
-2. ক্লিক করলে টেক্সট রিপ্লেস হবে।  
-   উদাহরণ: **BN আইকনে ক্লিক করলে → বাংলায় রিপ্লেস হবে**।  
+2. **Replace Text**: Click an icon to instantly replace the selected text with its translation.  
+   *Example*: Clicking the **BN** icon translates the text to Bangla.  
    ![Step 2](https://i.postimg.cc/rmMyCRDx/step-2.jpg)  
 
-3. শুধু প্রিভিউ চাইলে → আইকনের উপর **Long Press** করুন।  
+3. **Preview Translation**: Long-press an icon to view the translated text in a preview box.  
    ![Step 3](https://i.postimg.cc/4dPf84cM/step-3.jpg)  
 
-4. এখান থেকে কপি করে যেকোনো জায়গায় ব্যবহার করতে পারবেন।  
+4. **Copy & Use**: Copy the previewed translation and paste it anywhere you need.  
+
+> **Why It’s Awesome**: Translate directly in forms, chats, or text editors without leaving the page!  
 
 ---
 
-## ⚙️ Settings  
+## ⚙️ **Settings & Customization**  
 
-1. Extension toolbar → **Settings Icon** এ ক্লিক করলে settings page আসবে।  
-   ![Setting](https://i.postimg.cc/4dPf84cM/step-3.jpg)  
+Customize Translix to suit your needs via the **Settings** page, accessible by clicking the **Settings Icon** in the extension toolbar.  
+![Settings](https://i.postimg.cc/4dPf84cM/step-3.jpg)  
 
-### 🔑 AI Provider  
+### 🔑 **AI Provider**  
 
-- বিভিন্ন **LLM Provider** যোগ করতে পারবেন।  
-- তাদের ওয়েবসাইট থেকে **Free API Key** নিয়ে এখানে ব্যবহার করা যাবে।  
+- Add your preferred **LLM Provider** for translations.  
+- Use a **Free API Key** from supported providers.  
 
-👉 Example: Groq ফ্রি API key এর জন্য [groq.com](http://groq.com) এ যান → Account Create করুন → Settings থেকে Generate করুন।  
+**Example**:  
+To use **Grok**, visit [groq.com](http://groq.com):  
+1. Create an account.  
+2. Navigate to **Settings** and generate a free API key.  
+3. Add the key to Translix’s settings.  
 
----
+### 🌍 **Language & Shortcut Customization**  
 
-### 🌍 Language & Shortcut  
+- Choose your **target language** (e.g., BN → Bangla, EN → English, etc.).  
+- Customize **shortcut keys** for quick translations.  
 
-- Target Language পরিবর্তন করতে পারবেন (BN → Bangla, EN → English ইত্যাদি)।  
-- Shortcut Key কাস্টমাইজ করতে পারবেন।  
+**Default Shortcuts**:  
+- `Ctrl + M` → Translate to Bangla (BN)  
+- `Ctrl + E` → Translate to English (EN)  
 
-**ডিফল্ট শর্টকাট:**  
-- `Ctrl + M` → Bangla (BN)  
-- `Ctrl + E` → English (EN)  
-
----
-
-## ⭐ Best Way to Use  
-
-1. ডিফল্ট Provider "Polination" → সবসময় সঠিক কাজ নাও করতে পারে।  
-2. নিজের API Key (যেমন Groq) সেট করুন।  
-3. Default Language ঠিক করুন।  
-4. পেজ Refresh দিন এবং অনুবাদ শুরু করুন।  
+> **Pro Tip**: Set shortcuts that don’t conflict with other browser or system commands.  
 
 ---
 
-## 🛠️ প্রযুক্তি  
+## ⭐ **Best Practices**  
 
-- Chrome Extension → **CRX + React**  
-- Backend API → **Express.js**  
+Maximize your Translix experience with these tips:  
+
+1. **Switch from Default Provider**: The default provider, "Polination," may not always deliver optimal results. Use a custom API key (e.g., Groq) for better accuracy.  
+2. **Set Default Language**: Choose your primary language in settings for faster translations.  
+3. **Refresh Pages**: Always refresh the page after changing settings to apply updates.  
+4. **Test Shortcuts**: Ensure your custom shortcuts work smoothly across websites.  
+
+> **Fun Fact**: Translix works seamlessly in chat apps, forms, and even social media platforms!  
 
 ---
+
+## 🛠️ **Technology Stack**  
+
+Translix is built with modern, reliable technologies:  
+
+- **Frontend**: Chrome Extension with **React** for a smooth and dynamic UI.  
+- **Backend**: **Express.js** for fast and secure API communication.  
+- **Translation APIs**: Powered by leading LLMs for accurate translations.  
+
+---
+
+## 📞 **Support & Feedback**  
+
+Have questions or suggestions? We’d love to hear from you!  
+
+- **Email**: support@translix.com  
+- **GitHub**: [Translix Issues](https://github.com/translix/extension)  
+- **Community**: Join our [Discord Server](https://discord.gg/translix) for updates and tips.  
+
+> **Your feedback helps us make Translix even better!**
+
+---
+
+**Translix** - Break language barriers with a single click. Start translating today!  
