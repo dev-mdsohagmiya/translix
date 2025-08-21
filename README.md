@@ -1,4 +1,6 @@
-![Translix Logo](https://i.postimg.cc/pLQNvWVL/fulllogopng.png)
+<center>
+  <img src="https://i.postimg.cc/pLQNvWVL/fulllogopng.png" alt="Translix Logo" width="300">
+</center>
 
 # 🌐 **Translix** - Seamless Text Translation Chrome Extension  
 
