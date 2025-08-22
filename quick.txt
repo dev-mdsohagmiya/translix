@@ -1,0 +1,13 @@
+Why Translix.
+1. dhoren apni kono customar ba client er sathe kotha bolben english ba jekono basay apni just chatbox e likhe shortcut key press kore jekono vasay seta convert korte parben.
+2. emon jodi hoy apnake client message pathaiche english ba jekono vasay apni seta bujhtechen tar tahole apni sei text select kore icon e long press korlei right side e dekhte paben apnar mother language e.
+3. abar dhorun apni kono docs porchen kono jaygay kono sentence ba word bujhtechen nah apni just oi tuku select kore long press kore meaning dekhte paren jekono vasay.
+its will easy your communication and reading.
+
+Quick start
+1. inpacked uploaded korar por prothomei apnake ai provider configure korte hobe use korar jonno its required.
+2. for best perfomence you can add groq api key its fully free, if you dont to how to get then here you will find the docs.
+3. after adding the api key from setting, then refresh the web page
+4. then select any web page text text, then you will see 3 icon BN and EN, click a icon then the translated text will be replace, you can change default translation language from setting.
+4. after selecting the select using translate using key board shortcut for BN or primary language shortcut key is ctrl+M for the english shortcut key is ctrl+e, you can change from setting.
+6. apni jodi just priview dekhte can web page e replace korte nah can can tahole  text select korar por long press korle right side e ekta box open hobe sekhane dekhte paben translated text.

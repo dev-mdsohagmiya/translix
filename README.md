@@ -2,7 +2,24 @@
 
 # **Translix** - Seamless Text Translation Chrome Extension  
 
-**Translix** is a powerful Chrome Extension that enables you to instantly translate selected text in any input box into your desired language with a simple **shortcut key** or **long-press** preview. Communicate effortlessly across languages with ease and precision!  
+Translix is a powerful Chrome Extension that enables you to instantly translate selected text in any input box into your desired language with a simple shortcut key or long-press preview. Communicate effortlessly across languages with ease and precision!
+
+## Why Translix  
+
+1. **Effortless Communication**: While chatting with a customer or client in English or any other language, you can type in the chatbox any message with your mother language and press a shortcut key to instantly translate it into your desired language.  
+2. **Understand Incoming Messages**: If a client sends a message in English or another language you don’t fully understand, select the text and long-press the icon to see the translation in your native language on the right side.  
+3. **Read with Ease**: When reading documents and encountering unfamiliar sentences or words, select the text, long-press the icon, and view the meaning in any language.  
+
+Translix simplifies communication and reading across languages!  
+
+## Quick Start  
+
+1. **Configure AI Provider**: After loading the unpacked extension, you must configure an AI provider to enable translation functionality (this is required).  
+2. **Use Groq for Best Performance**: Add a Groq API key for optimal results—it’s completely free. Refer to the [Groq Configuration](#groq-configuration) section for instructions on obtaining the key.  
+3. **Apply Settings**: After adding the API key in the settings, refresh the webpage to apply changes.  
+4. **Translate Text**: Select text on any webpage, and three icons (e.g., BN for Bangla, EN for English) will appear. Click an icon to replace the selected text with its translation. You can change the default translation language in the settings.  
+5. **Use Shortcuts**: After selecting text, use keyboard shortcuts to translate—`Ctrl + M` for Bangla (or your primary language) and `Ctrl + E` for English. These can be customized in the settings.  
+6. **Preview Translations**: To view a translation without replacing the text, select the text, long-press an icon, and a box will appear on the right displaying the translated text.  
 
 > **Effortless. Fast. Multilingual.**  
 > Replace text or preview translations in just a few clicks.  
@@ -13,16 +30,16 @@
 
 1. [Overview Video](#overview-video)  
 2. [Installation Guide](#installation-guide)  
-3. [LLMs Providers Configuration](#llm-provider-configuration)  
-   - [1. Groq Configuration](#groq-configuration)  
-   - [2. Hugging Face Configuration](#hugging-face-configuration)  
-   - [3. Gemini Configuration](#gemini-configuration)  
+3. [LLM Provider Configuration](#llm-provider-configuration)  
+   - [Groq Configuration](#groq-configuration)  
+   - [Hugging Face Configuration](#hugging-face-configuration)  
+   - [Gemini Configuration](#gemini-configuration)  
 4. [How to Use](#how-to-use)  
-   - [1. Replace Text](#replace-text)  
-   - [2. Preview Translation](#preview-translation)  
+   - [Replace Text](#replace-text)  
+   - [Preview Translation](#preview-translation)  
 5. [Settings & Customization](#settings--customization)  
-   - [1. LLMs Providers Configuration](#llm-provider-configuration)  
-   - [2. Language & Shortcut](#language--shortcut)  
+   - [LLM Model Configuration](#llm-model-configuration)  
+   - [Language & Shortcut](#language--shortcut)  
 6. [Technology Stack](#technology-stack)  
 7. [Support & Feedback](#support--feedback)  
 
@@ -176,9 +193,9 @@ Translix is built with modern, reliable technologies:
 
 Have questions or suggestions? We’d love to hear from you!  
 
-- **Email**: dev.mdsohagmiya@gmail.com
+- **Email**: dev.mdsohagmiya@gmail.com  
 - **GitHub**: [Translix Issues](https://github.com/dev-mdsohagmiya/translix/issues)  
-- **Community**: You can connect with me on [Facebook](https://discord.gg/translix)  for updates and tips.  
+- **Community**: Connect with us on [Facebook](https://discord.gg/translix) for updates and tips.  
 
 > **Your feedback helps us make Translix even better!**
 
