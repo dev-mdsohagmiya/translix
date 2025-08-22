@@ -63,11 +63,16 @@ Translix requires a configured **LLM Provider** for accurate translations. Set u
 ### 1. Groq Configuration  
 
 To use **Grok** for translations:  
-1. Visit [groq.com](http://groq.com).  
-2. Create an account or sign in.  
-3. Navigate to **Settings** and generate a free API key.  
-4. Copy the API key and paste it into the **AI Provider** section of Translix’s settings.  
-5. Save and refresh the page to apply the changes.  
+1. Visit [console.groq.com](http://console.groq.com).  
+2. Create an account or sign in. You can quickly sign up or log in with your Gmail.
+3. Click here to create an API key from **API Keys**.
+       ![Step 1](https://i.postimg.cc/DwjWDy3t/6.jpg)  
+4. Now set your API key name, then click here to submit. After that, you will see your API key — copy it
+           ![Step 1](https://i.postimg.cc/wBn1qfv2/7.jpg)  
+           ![Step 1](https://i.postimg.cc/QMFBrGXV/8.jpg)  
+5. Then open the Translix extension, go to Settings → API Configuration, select the provider Groq, enter your API key, click Save, and refresh the page to apply the changes.
+           ![Step 1](https://i.postimg.cc/KzLRRP32/9.jpg)  
+           ![Step 1](https://i.postimg.cc/SRhj8ncz/10.jpg)  
 
 > **Note**: Groq offers fast and accurate translations, ideal for multilingual communication.  
 
