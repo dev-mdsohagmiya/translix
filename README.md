@@ -49,7 +49,7 @@ Translix simplifies communication and reading across languages!
 
 Get a quick glimpse of Translix in action! Watch the video below to see how it simplifies multilingual communication.  
 
-[![Watch the Video](https://img.youtube.com/vi/9PSBWwj9DU8/maxresdefault.jpg)](https://www.youtube.com/watch?v=9PSBWwj9DU8)  
+[![Watch the Video](https://i.postimg.cc/1RjBb2yv/Chat-GPT-Image-Aug-22-2025-07-35-24-PM.png)](https://www.youtube.com/watch?v=9PSBWwj9DU8)  
 
 *Click the image to watch on YouTube*  
 
