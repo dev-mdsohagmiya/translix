@@ -81,11 +81,16 @@ To use **Grok** for translations:
 To use **Hugging Face** for translations:  
 1. Go to [huggingface.co](https://huggingface.co).  
 2. Sign up or log in to your account.  
-3. Navigate to **Settings > Access Tokens** and create a new API token.  
-4. Copy the token and add it to the **AI Provider** section in Translix’s settings.  
-5. Select a translation model (e.g., `Helsinki-NLP/opus-mt`) from the settings dropdown.  
-6. Save and refresh the page.  
-
+3. Navigate to **Settings > Access Tokens** and create a new API token.
+    ![Step 1](https://i.postimg.cc/vH8m5g45/11.jpg)  
+4. Here, enter any token name you like. Setting the permission to Inference only will be enough. 
+    ![Step 1](https://i.postimg.cc/5tz9f8rW/12.jpg)  
+5. Then scroll all the way down, and you will see the Create Token button. Click it to create the token and copy the token.
+    ![Step 1](https://i.postimg.cc/htfP3kbj/13.jpg)  
+  ![Step 1](https://i.postimg.cc/13nVNndJ/Untitled-design-5.jpg)  
+6. Then open the Translix extension, go to Settings → API Configuration, select the provider Huggingface enter your API key, click Save, and refresh the page to apply the changes.
+  ![Step 1](https://i.postimg.cc/xCSf8crJ/14.jpg)  
+  ![Step 1](https://i.postimg.cc/4dbJ9sZ8/15.jpg)  
 > **Note**: Hugging Face supports a wide range of open-source translation models.  
 
 ### 3. Gemini Configuration  
