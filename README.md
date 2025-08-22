@@ -43,7 +43,7 @@ Get a quick glimpse of Translix in action! Watch the video below to see how it s
 
 Follow these simple steps to install Translix and start translating text instantly:  
 
-1. ⬇️ **Download** the extension’s **ZIP file** from the official source.  
+1. ⬇️ **Download** the extension’s **ZIP file** [click here to download](./assets/versions/translix-1.0.0.zip).
 2. 🌐 Open Chrome and navigate to `chrome://extensions`.  
 3. ⚙️ Enable **Developer Mode** (top-right corner).  
    ![Step 1](https://i.postimg.cc/jjrcD5mG/3.jpg)  
