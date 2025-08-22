@@ -14,7 +14,9 @@ Translix simplifies communication and reading across languages!
 
 ## Quick Start  
 
-1. **Configure AI Provider**: After loading the unpacked extension, you must configure an AI provider to enable translation functionality (this is required).  
+2. **Install**  First [click here to download](./assets/versions/translix-1.0.0.zip) the extension zip file, then go to `chrome://extensions` and enable **Developer mode**, and finally click **Load unpacked** and upload the extracted zip folder.
+
+1. **Configure AI Provider**: After loading the unpacked extension  , you must configure an AI provider to enable translation functionality (this is required).  
 2. **Use Groq for Best Performance**: Add a Groq API key for optimal results—it’s completely free. Refer to the [Groq Configuration](#groq-configuration) section for instructions on obtaining the key.  
 3. **Apply Settings**: After adding the API key in the settings, refresh the webpage to apply changes.  
 4. **Translate Text**: Select text on any webpage, and three icons (e.g., BN for Bangla, EN for English) will appear. Click an icon to replace the selected text with its translation. You can change the default translation language in the settings.  
