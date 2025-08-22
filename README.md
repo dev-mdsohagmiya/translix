@@ -176,9 +176,9 @@ Translix is built with modern, reliable technologies:
 
 Have questions or suggestions? We’d love to hear from you!  
 
-- **Email**: support@translix.com  
-- **GitHub**: [Translix Issues](https://github.com/translix/extension)  
-- **Community**: Join our [Discord Server](https://discord.gg/translix) for updates and tips.  
+- **Email**: dev.mdsohagmiya@gmail.com
+- **GitHub**: [Translix Issues](https://github.com/dev-mdsohagmiya/translix/issues)  
+- **Community**: You can connect with me on [Facebook](https://discord.gg/translix)  for updates and tips.  
 
 > **Your feedback helps us make Translix even better!**
 
