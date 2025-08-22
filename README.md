@@ -96,11 +96,17 @@ To use **Hugging Face** for translations:
 ### 3. Gemini Configuration  
 
 To use **Google Gemini** for translations:  
-1. Visit [ai.google.dev](https://ai.google.dev).  
-2. Sign in with your Google account.  
-3. Navigate to the **API Keys** section and generate a new API key.  
-4. Copy the API key and paste it into the **AI Provider** section of Translix’s settings.  
-5. Save and refresh the page to enable Gemini-powered translations.  
+1. Visit [aistudio.google.com](https://aistudio.google.com/).  
+2. G to api key and click   Create api key.
+     ![Step 1](https://i.postimg.cc/V6kpL8GQ/17.jpg)  
+3. Then select a project from here and click Create API Key in Existing Project. If you don’t see any project, go to https://console.cloud.google.com/ and create a new one. Make sure you use the same Gmail account that you want to use for generating the API key.
+     ![Step 1](https://i.postimg.cc/fLqFVrp3/18.jpg)  
+     ![Step 1](https://i.postimg.cc/d1GfvTYt/Untitled-design-7.jpg)
+4. Copy the API key and paste it into the **AI Provider** section of Translix’s settings. 
+      ![Step 1](https://i.postimg.cc/SRXPCGbg/19.jpg)  
+5. Then open the Translix extension, go to Settings → API Configuration, select the provider Huggingface enter your API key, click Save, and refresh the page to apply the changes.
+     ![Step 1](https://i.postimg.cc/J7gvmSjv/21.jpg)
+     ![Step 1](https://i.postimg.cc/SRwvrzyk/20.jpg)
 
 > **Note**: Ensure your Gemini API key has access to translation-capable models.  
 
