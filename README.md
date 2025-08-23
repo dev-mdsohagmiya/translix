@@ -1,8 +1,8 @@
 ![Translix Logo](https://i.postimg.cc/pLQNvWVL/fulllogopng.png)
 
-# **Translix** - Seamless Text Translation Chrome Extension  
+# **Translix** - Seamless AI Powered Text Translation Chrome Extension  
 
-Translix is a powerful Chrome Extension that enables you to instantly translate selected text in any input box into your desired language with a simple shortcut key or long-press preview. Communicate effortlessly across languages with ease and precision!
+Translix is a powerful AI powered Chrome Extension that enables you to instantly translate selected text in any input box into your desired language with a simple shortcut key or long-press preview. Communicate effortlessly across languages with ease and precision!
 
 ## Why Translix  
 
@@ -147,7 +147,7 @@ Click an icon to instantly replace the selected text with its translation.
 ### Preview Translation  
 
 Long-press an icon to view the translated text in a preview box. Copy the previewed translation and paste it anywhere you need.  
-![Step 3](https://i.postimg.cc/4dPf84cM/step-3.jpg)  
+![Step 3](https://i.postimg.cc/ryn0QXMp/Untitled-design-8.jpg)  
 
 > **Why It’s Awesome**: Translate directly in forms, chats, or text editors without leaving the page!  
 
