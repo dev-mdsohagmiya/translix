@@ -47,11 +47,11 @@ Translix simplifies communication and reading across languages!
 
 ---
 
-## Overview Video  
+## Overview Video  (Video Coming Soon)
 
 Get a quick glimpse of Translix in action! Watch the video below to see how it simplifies multilingual communication.  
 
-[![Watch the Video](./assets/docs/overview-video/img1.png)](https://youtu.be/oxyZyqbXTYk?si=aIRocz0y0pLRg_Ub)  
+[![Watch the Video](./assets/docs/overview-video/img1.png)]()  
 
 *Click the image to watch on YouTube*  
 
