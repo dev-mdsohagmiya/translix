@@ -84,13 +84,13 @@ To use **Groq** for translations:
 1. Visit [console.groq.com](http://console.groq.com).  
 2. Create an account or sign in. You can quickly sign up or log in with your Gmail.  
 3. Click to create an API key from **API Keys**.  
-   ![Step 1](https://i.postimg.cc/DwjWDy3t/6.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/groq/6.jpg)  
 4. Set your API key name, then click to submit. After that, you will see your API key — copy it.  
-   ![Step 1](https://i.postimg.cc/wBn1qfv2/7.jpg)  
-   ![Step 1](https://i.postimg.cc/QMFBrGXV/8.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/groq/7.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/groq/8.jpg)  
 5. Open the Translix extension, go to Settings → API Configuration, select the provider Groq, enter your API key, click Save, and refresh the page to apply the changes.  
-   ![Step 1](https://i.postimg.cc/KzLRRP32/9.jpg)  
-   ![Step 1](https://i.postimg.cc/SRhj8ncz/10.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/groq/9.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/groq/10.jpg)  
 
 > **Note**: Groq offers fast and accurate translations, ideal for multilingual communication.  
 
@@ -100,15 +100,15 @@ To use **Hugging Face** for translations:
 1. Go to [huggingface.co](https://huggingface.co).  
 2. Sign up or log in to your account.  
 3. Navigate to **Settings > Access Tokens** and create a new API token.  
-   ![Step 1](https://i.postimg.cc/vH8m5g45/11.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/huggingface/11.jpg)  
 4. Enter any token name you like. Setting the permission to Inference only will be enough.  
-   ![Step 1](https://i.postimg.cc/5tz9f8rW/12.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/huggingface/12.jpg)  
 5. Scroll down, click the Create Token button to create the token, and copy the token.  
-   ![Step 1](https://i.postimg.cc/htfP3kbj/13.jpg)  
-   ![Step 1](https://i.postimg.cc/13nVNndJ/Untitled-design-5.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/huggingface/13.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/huggingface/Untitled%20design%20(5).jpg)  
 6. Open the Translix extension, go to Settings → API Configuration, select the provider Hugging Face, enter your API key, click Save, and refresh the page to apply the changes.  
-   ![Step 1](https://i.postimg.cc/xCSf8crJ/14.jpg)  
-   ![Step 1](https://i.postimg.cc/4dbJ9sZ8/15.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/huggingface/14.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/huggingface/15.jpg)  
 
 > **Note**: Hugging Face supports a wide range of open-source translation models.  
 
