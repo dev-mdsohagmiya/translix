@@ -32,7 +32,7 @@ Translix simplifies communication and reading across languages!
 
 1. [Overview Video](#overview-video)  
 2. [Installation Guide](#installation-guide)  
-3. [LLM Provider Configuration](#llm-provider-configuration)  
+3. [LLMs Providers Configurations](#llm-provider-configuration)  
    - [Groq Configuration](#groq-configuration)  
    - [Hugging Face Configuration](#hugging-face-configuration)  
    - [Gemini Configuration](#gemini-configuration)  
@@ -40,8 +40,8 @@ Translix simplifies communication and reading across languages!
    - [Replace Text](#replace-text)  
    - [Preview Translation](#preview-translation)  
 5. [Settings & Customization](#settings--customization)  
-   - [LLM Model Configuration](#llm-model-configuration)  
-   - [Language & Shortcut](#language--shortcut)  
+   - [LLMs Models Configuration](#llm-model-configuration)  
+   - [Languages & Shortcut](#language--shortcut)  
 6. [Technology Stack](#technology-stack)  
 7. [Support & Feedback](#support--feedback)  
 
@@ -153,12 +153,12 @@ Long-press an icon to view the translated text in a preview box. Copy the previe
 
 ---
 
-## Settings & Customization  
+## Settings & Customization
 
 Customize Translix to suit your needs via the **Settings** page, accessible by clicking the **Settings Icon** in the extension toolbar.  
 ![Settings](./assets/docs/how-to-use/Untitled%20design%20(9).jpg)  
 
-### LLM Model Configuration  
+### LLMs Models Configuration s 
 
 Add your preferred **LLM Provider** for translations by configuring an API key. This enhances translation accuracy and speed.  
 
