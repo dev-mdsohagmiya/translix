@@ -136,18 +136,18 @@ To use **Google Gemini** for translations:
 Translix makes translation intuitive and fast. Here’s how it works:  
 
 1. **Select Text**: Highlight text in any input box after refreshing the page. Two icons will appear next to the selection.  
-   ![Step 1](https://i.postimg.cc/k5rgGp9j/step-1.jpg)  
+   ![Step 1](./assets/docs/how-to-use/step-1.jpg)  
 
 ### Replace Text  
 
 Click an icon to instantly replace the selected text with its translation.  
 *Example*: Clicking the **BN** icon translates the text to Bangla.  
-![Step 2](https://i.postimg.cc/rmMyCRDx/step-2.jpg)  
+![Step 2](./assets/docs/how-to-use/step-2.jpg)  
 
 ### Preview Translation  
 
 Long-press an icon to view the translated text in a preview box. Copy the previewed translation and paste it anywhere you need.  
-![Step 3](https://i.postimg.cc/ryn0QXMp/Untitled-design-8.jpg)  
+![Step 3](./assets/docs/how-to-use/Untitled%20design%20(8).jpg)  
 
 > **Why It’s Awesome**: Translate directly in forms, chats, or text editors without leaving the page!  
 
@@ -156,7 +156,7 @@ Long-press an icon to view the translated text in a preview box. Copy the previe
 ## Settings & Customization  
 
 Customize Translix to suit your needs via the **Settings** page, accessible by clicking the **Settings Icon** in the extension toolbar.  
-![Settings](https://i.postimg.cc/0yJV90cp/Untitled-design-9.jpg)  
+![Settings](./assets/docs/how-to-use/Untitled%20design%20(9).jpg)  
 
 ### LLM Model Configuration  
 
