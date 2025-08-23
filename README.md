@@ -51,7 +51,7 @@ Translix simplifies communication and reading across languages!
 
 Get a quick glimpse of Translix in action! Watch the video below to see how it simplifies multilingual communication.  
 
-[![Watch the Video](./assets/docs/overview-video/img1.png)](https://www.youtube.com/watch?v=9PSBWwj9DU8)  
+[![Watch the Video](./assets/docs/overview-video/img1.png)](https://youtu.be/oxyZyqbXTYk?si=aIRocz0y0pLRg_Ub)  
 
 *Click the image to watch on YouTube*  
 
