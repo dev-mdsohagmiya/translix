@@ -117,15 +117,15 @@ To use **Hugging Face** for translations:
 To use **Google Gemini** for translations:  
 1. Visit [aistudio.google.com](https://aistudio.google.com/).  
 2. Go to API keys and click Create API key.  
-   ![Step 1](https://i.postimg.cc/V6kpL8GQ/17.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/gemini/17.jpg)  
 3. Select a project and click Create API Key in Existing Project. If you don’t see any project, go to [console.cloud.google.com](https://console.cloud.google.com/) and create a new one. Use the same Gmail account for generating the API key.  
-   ![Step 1](https://i.postimg.cc/fLqFVrp3/18.jpg)  
-   ![Step 1](https://i.postimg.cc/d1GfvTYt/Untitled-design-7.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/gemini/18.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/gemini/Untitled%20design%20(7).jpg)  
 4. Copy the API key and paste it into the **AI Provider** section of Translix’s settings.  
-   ![Step 1](https://i.postimg.cc/SRXPCGbg/19.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/gemini/19.jpg)  
 5. Open the Translix extension, go to Settings → API Configuration, select the provider Gemini, enter your API key, click Save, and refresh the page to apply the changes.  
-   ![Step 1](https://i.postimg.cc/J7gvmSjv/21.jpg)  
-   ![Step 1](https://i.postimg.cc/SRwvrzyk/20.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/gemini/21.jpg)  
+   ![Step 1](./assets/docs/llms-providers-configurations/gemini/20.jpg)  
 
 > **Note**: Ensure your Gemini API key has access to translation-capable models.  
 
