@@ -156,7 +156,7 @@ Long-press an icon to view the translated text in a preview box. Copy the previe
 ## Settings & Customization  
 
 Customize Translix to suit your needs via the **Settings** page, accessible by clicking the **Settings Icon** in the extension toolbar.  
-![Settings](https://i.postimg.cc/4dPf84cM/step-3.jpg)  
+![Settings](https://i.postimg.cc/0yJV90cp/Untitled-design-9.jpg)  
 
 ### LLM Model Configuration  
 
