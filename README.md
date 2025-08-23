@@ -51,7 +51,7 @@ Translix simplifies communication and reading across languages!
 
 Get a quick glimpse of Translix in action! Watch the video below to see how it simplifies multilingual communication.  
 
-[![Watch the Video](https://i.postimg.cc/1RjBb2yv/Chat-GPT-Image-Aug-22-2025-07-35-24-PM.png)](https://www.youtube.com/watch?v=9PSBWwj9DU8)  
+[![Watch the Video](./assets/docs/overview-video/img1.png)](https://www.youtube.com/watch?v=9PSBWwj9DU8)  
 
 *Click the image to watch on YouTube*  
 
@@ -64,11 +64,11 @@ Follow these simple steps to install Translix and start translating text instant
 1. ⬇️ **Download** the extension’s **ZIP file** [click here to download](./assets/versions/translix-1.0.0.zip).  
 2. 🌐 Open Chrome and navigate to `chrome://extensions`.  
 3. ⚙️ Enable **Developer Mode** (top-right corner).  
-   ![Step 1](https://i.postimg.cc/jjrcD5mG/3.jpg)  
+   ![Step 1](./assets/docs/how-to-use/3.jpg)  
 4. 📂 Click **Load unpacked** and select the extracted ZIP folder.  
-   ![Step 1](https://i.postimg.cc/yNXPcKzW/4.jpg)  
+   ![Step 1](./assets/docs/how-to-use/4.jpg)  
 5. ✅ Once installed, Translix will appear in your Chrome extensions list.  
-   ![Step 1](https://i.postimg.cc/JnrQQF1x/5.jpg)  
+   ![Step 1](./assets/docs/how-to-use/5.jpg)  
 
 > **Pro Tip**: Pin Translix to your Chrome toolbar for quick access!  
 
